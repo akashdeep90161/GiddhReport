@@ -1,0 +1,12 @@
+json/to/csvjackson/Currency.class
+json/to/csv/Accounts.class
+json/to/csv/Accounts2.class
+json/to/csv/GroupDetailsModel.class
+json/to/csv/JsonFlattener.class
+json/to/csvjackson/ChildGroups.class
+json/to/csv/Test.class
+json/to/csv/AccountDetailModel.class
+json/to/csvjackson/GroupDetailsJackson.class
+json/to/csvjackson/TestJackson.class
+json/to/csv/JsonToCsvApi.class
+json/to/csvjackson/TestRestTemp.class
