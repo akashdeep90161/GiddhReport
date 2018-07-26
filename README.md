@@ -1,6 +1,6 @@
 # JsonResponseToCsv
 <h2>Introduction</h2>
-This project is used in creating Giddh(An accounting Software) Report.In this project we get JsonResponse and by using jsonResponse we extract data into csv file.
+This project is used in creating Giddh(An accounting Software) Report.In this project we get JsonResponse and by using jsonResponse I extract data into csv file.
 
 <h2>Project details and setup</h2>
 The project is written in Java 8.
